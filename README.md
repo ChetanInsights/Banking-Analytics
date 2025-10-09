@@ -32,7 +32,7 @@ The **Banking Analytics Project** aims to analyze customer, transaction, and acc
 ## 🗂️ Dataset  
 The dataset includes details of customers, transactions, accounts, and cards.  
 
-📥 **Download Dataset:** [Banking Dataset (CSV)](https://example.com/banking-dataset)  
+📥 **Download Dataset:** [Banking Dataset (CSV)](https://github.com/ChetanInsights/Banking-Analytics/blob/main/Bank%20Data%20Analytics.xlsx)  
 
 ---
 
