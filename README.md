@@ -37,7 +37,7 @@ The dataset includes details of customers, transactions, accounts, and cards.
 ---
 
 ## 📈 Dashboard  
-🔗 **View Dashboard:** [Banking Analytics Dashboard](https://example.com/dashboard-link)    
+🔗 **View Dashboard:** [Banking Analytics Dashboard](https://github.com/ChetanInsights/Banking-Analytics/blob/main/powerbi_dashboard.png)    
 
 ---
 
