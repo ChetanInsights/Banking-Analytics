@@ -1,10 +1,10 @@
 # Banking-Analytics
-#🏦 Banking Analytics Dashboard
-#📘 Project Overview
+##🏦 Banking Analytics Dashboard
+##📘 Project Overview
 
 The Banking Analytics Project aims to analyze customer, transaction, and account data to uncover insights about banking performance, customer behavior, and product trends. The project uses Excel (Power Query, Pivot Tables, and Dashboards) to clean, transform, and visualize the data for better decision-making and business insights.
 
-#🎯 Objectives
+##🎯 Objectives
 
 Analyze customer demographics and behavior.
 
@@ -14,7 +14,7 @@ Identify potential revenue streams and churn indicators.
 
 Create an interactive dashboard for data-driven decisions.
 
-#📊 Key Insights
+##📊 Key Insights
 
 Customer Segmentation: Majority of customers are between 25–45 years old with savings accounts being the most preferred.
 
